@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage>
   Widget build(BuildContext context) {
     super.build(context);
     return Scaffold(
-      resizeToAvoidBottomInset: false,
+      //resizeToAvoidBottomInset: false,
       appBar: AppBar(
         backgroundColor: Colors.grey.withOpacity(0.5),
         elevation: 0,
