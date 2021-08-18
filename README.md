@@ -1,6 +1,7 @@
 # user_input
 
-Just take user input
+1. Just take user input.
+2. Print name
 
 # Name
 ![Screenshot_20210818-062849615 (1)](https://user-images.githubusercontent.com/21040700/129842617-645cebbe-d6e8-4aaf-aa26-497cb67f2f96.jpg)
